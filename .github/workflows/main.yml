@@ -29,5 +29,5 @@ jobs:
       - name: npm ci and npm run build
         run: |
           cd Erp-Client
-          npm ci
+          npm i ci
           npm run build:ci
