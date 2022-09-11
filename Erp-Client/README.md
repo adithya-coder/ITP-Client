@@ -1,27 +1,63 @@
-# ErpClient
+<p align="center">
+  <a href="https://github.com/adithya-coder/ITP">
+    <img width="150" src="">
+  </a>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
+<h1 align="center">
+ERP
+</h1>
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## ✨ Features
 
-## Code scaffolding
+- Material Extensions
+- Schematics support
+- Modern design style
+- Multiple admin layout
+- Powerful color system
+- Rich CSS helpers
+- Dark mode support
+- RTL support
+- Internationalization
+- Authentication
+- HTTP interceptors
+- Permissions management
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 📖 Documentation
 
-## Build
+## 📦 Compatibility
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Which version to use?
 
-## Running unit tests
+| Angular | Material | Ng-Matero | Extensions |
+| ------- | -------- | --------- | ---------- |
+| v14     | v14      | 14.x.x    | 14.x.x     |
+| v13     | v13      | 13.1.1    | 13.2.1     |
+| v12     | v12      | 12.8.0    | 12.9.1     |
+| v11     | v11      | 11.3.2    | 11.5.1     |
+| v10     | v10      | 10.4.1    | 10.16.5    |
+| v9      | v9       | 9.7.2     | 9.11.14    |
+| v8      | v8       | 0.16.0    | 0.9.3      |
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🔧 Installation
 
-## Running end-to-end tests
+The project has support `ng add` yet.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+$ ng new <project-name>
+$ cd <project-name>
+$ ng add ng-matero
+```
 
-## Further help
+You can also git clone the starter repo to start.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+$ git clone  https://github.com/adithya-coder/ITP 
+$ cd <ITP-Client>
+$ npm install
+```
+
+## 📃 License
+
+MIT
